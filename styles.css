@@ -1,0 +1,26 @@
+
+        body {
+            background-color: #F6E1C3;
+            
+            
+        }
+
+        hr {
+            border-style:  none;
+            border-top-style: dotted;
+            border-color: #A84448;
+            opacity: 60%;
+            border-width: 5px;
+            width: 5%;
+    
+        }
+        h1 {
+            color: #A84448;
+        }
+
+        h3 {
+            color: #A84448;
+        }
+    
+
+  
